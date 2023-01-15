@@ -1,0 +1,10 @@
+logging:
+  level:
+    root: WARN
+
+server:
+  port: 0
+
+spring:
+  application:
+    name: agenda
